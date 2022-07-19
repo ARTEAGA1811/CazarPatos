@@ -2465,6 +2465,8 @@ drawable duck
 drawable duck_clicked
 drawable duck_hunt_logo
 drawable ic_clock_black_24dp
+drawable ic_information_background
+drawable ic_information_foreground
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -2475,6 +2477,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_myicon_background
+drawable ic_myicon_foreground
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2769,6 +2773,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id jugar_online
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2856,6 +2861,7 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id nuevo_juego
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -2888,6 +2894,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id salir
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3210,8 +3217,13 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+menu menu_juego
+mipmap ic_information
+mipmap ic_information_round
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_myicon
+mipmap ic_myicon_round
 plurals mtrl_badge_content_description
 raw gunshot
 raw title_screen
@@ -3259,6 +3271,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string jugar_online
 string label
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
@@ -3331,11 +3344,13 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string nuevo_juego
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string salir
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

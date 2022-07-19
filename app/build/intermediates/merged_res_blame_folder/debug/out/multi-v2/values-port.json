@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.arteagabryan.cazarpatos.app-mergeDebugResources-24:/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\GAMMA\\.gradle\\caches\\transforms-3\\8a39463ca7a3527efd979299126c223b\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\BETA\\.gradle\\caches\\transforms-3\\26279d5cb77836c551312cc518020b9b\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -46,7 +46,7 @@ class LoginActivity : AppCompatActivity() {
 
             //Si pasa validación de datos requeridos, ir a pantalla principal
             val intencion = Intent(this, MainActivity::class.java)
-            intencion.putExtra(EXTRA_LOGIN, email)
+            intencion.putExtra(EXTRA_LOGIN, cortarSoloNombre(email))
             startActivity(intencion)
 
         }
@@ -56,13 +56,23 @@ class LoginActivity : AppCompatActivity() {
         mediaPlayer=MediaPlayer.create(this, R.raw.title_screen)
         mediaPlayer.isLooping = true
         mediaPlayer.start()
+
+
+
+
     }
 
     private fun ValidarDatosRequeridos():Boolean{
+        val misValidaciones = Validaciones();
         val email = editTextEmail.text.toString()
         val clave = editTextPassword.text.toString()
         if (email.isEmpty()) {
             editTextEmail.setError("El email es obligatorio")
+            editTextEmail.requestFocus()
+            return false
+        }
+        if(!misValidaciones.validarCorreo(email)){
+            editTextEmail.setError("El email no es válido")
             editTextEmail.requestFocus()
             return false
         }
@@ -71,7 +81,7 @@ class LoginActivity : AppCompatActivity() {
             editTextPassword.requestFocus()
             return false
         }
-        if (clave.length < 3) {
+        if (!misValidaciones.validarContrasenia(clave)) {
             editTextPassword.setError("La clave debe tener al menos 3 caracteres")
             editTextPassword.requestFocus()
             return false
@@ -112,6 +122,20 @@ class LoginActivity : AppCompatActivity() {
     override fun onDestroy() {
         mediaPlayer.release()
         super.onDestroy()
+    }
+
+
+    fun cortarSoloNombre(correo: String): String{
+        val posArroba = correo.indexOf('@')
+
+        //Retorna el substring hasta antes del arroba
+        if (posArroba!= -1){
+            return correo.substring(0, posArroba)
+        }
+
+        //En caso que no detecte el arroba me devuelve el correo completo
+        return correo
+
     }
 
 

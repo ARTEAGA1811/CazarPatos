@@ -6,72 +6,76 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="27"
-8-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml
+8-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml
+9-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml
 10
-11    <application
-11-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:6:5-23:19
-12        android:allowBackup="true"
-12-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:7:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\GAMMA\.gradle\caches\transforms-3\05817a5203b51b6b896fddf28bf56056\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:extractNativeLibs="false"
-16        android:icon="@mipmap/ic_launcher"
-16-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:8:9-43
-17        android:label="@string/app_name"
-17-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:9:9-41
-18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:10:9-54
-19        android:supportsRtl="true"
-19-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:11:9-35
-20        android:testOnly="true"
-21        android:theme="@style/Theme.CazarPatos.Personalizado" >
-21-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:12:9-62
-22        <activity
-22-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:13:9-20:20
-23            android:name="com.arteagabryan.cazarpatos.LoginActivity"
-23-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:13:19-48
-24            android:exported="true" >
-24-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:14:13-36
-25            <intent-filter>
-25-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:15:13-19:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:16:17-69
-26-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:16:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:18:17-77
-28-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:18:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity android:name="com.arteagabryan.cazarpatos.MainActivity" >
-31-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:21:9-22:20
-31-->C:\Users\GAMMA\AndroidStudioProjects\ProyectosDavidA\ProyectosDavid\CazarPatos\app\src\main\AndroidManifest.xml:21:19-47
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:5:22-78
+12
+13    <application
+13-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:7:5-26:19
+14        android:allowBackup="true"
+14-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\BETA\.gradle\caches\transforms-3\fcbb74aa821fb8d8ce77cfbe37eb3aa4\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_myicon"
+18-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:9:9-41
+19        android:label="@string/app_name"
+19-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.CazarPatos.Personalizado" >
+23-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:13:9-62
+24        <activity
+24-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:14:9-21:20
+25            android:name="com.arteagabryan.cazarpatos.LoginActivity"
+25-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:14:19-48
+26            android:exported="true" >
+26-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:15:13-36
+27            <intent-filter>
+27-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:16:13-20:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:17:17-69
+28-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:17:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:19:17-77
+30-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:19:27-74
+31            </intent-filter>
 32        </activity>
-33
-34        <provider
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-35            android:name="androidx.startup.InitializationProvider"
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-36            android:authorities="com.arteagabryan.cazarpatos.androidx-startup"
-36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-37            android:exported="false" >
-37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-38            <meta-data
-38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-39                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-40                android:value="androidx.startup" />
-40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\GAMMA\.gradle\caches\transforms-3\ad21252005288b43dc5c6615d0194529\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-41            <meta-data
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GAMMA\.gradle\caches\transforms-3\05573bc09cc21b73f2cf6ad8a876b023\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-42                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GAMMA\.gradle\caches\transforms-3\05573bc09cc21b73f2cf6ad8a876b023\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-43                android:value="androidx.startup" />
-43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\GAMMA\.gradle\caches\transforms-3\05573bc09cc21b73f2cf6ad8a876b023\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-44        </provider>
-45    </application>
-46
-47</manifest>
+33        <activity android:name="com.arteagabryan.cazarpatos.MainActivity" >
+33-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:22:9-25:20
+33-->C:\Users\BETA\AndroidStudioProjects\David Arteaga Proyectos\Proyectos David\proyectocazarpatos\CazarPatos\app\src\main\AndroidManifest.xml:23:13-41
+34        </activity>
+35
+36        <provider
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+37            android:name="androidx.startup.InitializationProvider"
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+38            android:authorities="com.arteagabryan.cazarpatos.androidx-startup"
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+39            android:exported="false" >
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+40            <meta-data
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+41                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+42                android:value="androidx.startup" />
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\BETA\.gradle\caches\transforms-3\82a1a2f5f780f649152b9a7ce5da2b30\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+43            <meta-data
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\BETA\.gradle\caches\transforms-3\dc72cb3cd6f7b537805b0867616dc264\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+44                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\BETA\.gradle\caches\transforms-3\dc72cb3cd6f7b537805b0867616dc264\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+45                android:value="androidx.startup" />
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\BETA\.gradle\caches\transforms-3\dc72cb3cd6f7b537805b0867616dc264\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+46        </provider>
+47    </application>
+48
+49</manifest>

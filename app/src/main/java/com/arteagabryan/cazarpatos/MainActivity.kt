@@ -1,10 +1,14 @@
 package com.arteagabryan.cazarpatos
 
+import android.content.Intent
 import android.media.MediaPlayer
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
 import android.os.Handler
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
@@ -23,6 +27,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        //Para que se cree un boton de back en el action bar
+        supportActionBar!!.title = "Cazar patos"
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         //Inicialización de variables
         textViewUsuario = findViewById(R.id.textViewUsuario)
@@ -99,6 +107,7 @@ class MainActivity : AppCompatActivity() {
         builder
             .setMessage("Felicidades!!\nHas conseguido cazar $contador patos")
             .setTitle("Fin del juego")
+            .setIcon(R.mipmap.ic_information)
             .setPositiveButton("Reiniciar",
                 { _, _ ->
                     reiniciarJuego()
@@ -117,6 +126,36 @@ class MainActivity : AppCompatActivity() {
         moverPato()
         inicializarCuentaRegresiva()
     }
+
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_juego,menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.nuevo_juego-> {
+                reiniciarJuego()
+                return true
+            }
+            R.id.jugar_online-> {
+                val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://duckhuntjs.com/"))
+                startActivity(browserIntent)
+                return true
+            }
+            else ->{
+                val volverLogin = Intent(this, LoginActivity::class.java)
+                startActivity(volverLogin)
+                finish()
+                return true
+            }
+
+        }
+    }
+
+
+
 
 
 }

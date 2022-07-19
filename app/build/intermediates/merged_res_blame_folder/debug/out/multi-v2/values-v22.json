@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.arteagabryan.cazarpatos.app-mergeDebugResources-24:/values-v22/values-v22.xml",
+            "outputFile": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\GAMMA\\.gradle\\caches\\transforms-3\\8a39463ca7a3527efd979299126c223b\\transformed\\appcompat-1.4.2\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\BETA\\.gradle\\caches\\transforms-3\\26279d5cb77836c551312cc518020b9b\\transformed\\appcompat-1.4.2\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -12,14 +12,6 @@
                         "endLines": "2,3,8,13",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "125,212,548,896"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,9",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,130,217,487",
-                        "endLines": "2,3,8,13",
-                        "endColumns": "74,86,12,12",
-                        "endOffsets": "125,212,482,764"
                     }
                 }
             ]
