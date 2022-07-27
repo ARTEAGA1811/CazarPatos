@@ -82,7 +82,7 @@ class LoginActivity : AppCompatActivity() {
             return false
         }
         if (!misValidaciones.validarContrasenia(clave)) {
-            editTextPassword.setError("La clave debe tener al menos 3 caracteres")
+            editTextPassword.setError("La clave debe tener al menos 8 caracteres")
             editTextPassword.requestFocus()
             return false
         }
