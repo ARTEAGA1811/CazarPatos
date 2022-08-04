@@ -1,8 +1,10 @@
-package com.arteagabryan.cazarpatos
+package com.arteagabryan.cazarpatos.storage
 
 import android.app.Activity
 import androidx.security.crypto.EncryptedSharedPreferences
 import androidx.security.crypto.MasterKeys
+import com.arteagabryan.cazarpatos.LOGIN_KEY
+import com.arteagabryan.cazarpatos.PASSWORD_KEY
 
 class EncryptedSharedPreferencesManager(val actividad: Activity): FileHandler {
     val masterKeyAlias: String = MasterKeys.getOrCreate(MasterKeys.AES256_GCM_SPEC)

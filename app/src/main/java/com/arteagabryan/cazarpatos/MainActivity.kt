@@ -145,8 +145,8 @@ class MainActivity : AppCompatActivity() {
                 return true
             }
             else ->{
-                val volverLogin = Intent(this, LoginActivity::class.java)
-                startActivity(volverLogin)
+//                val volverLogin = Intent(this, LoginActivity::class.java)
+//                startActivity(volverLogin)
                 finish()
                 return true
             }

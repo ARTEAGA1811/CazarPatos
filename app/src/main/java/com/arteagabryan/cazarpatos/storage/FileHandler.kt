@@ -1,4 +1,4 @@
-package com.arteagabryan.cazarpatos
+package com.arteagabryan.cazarpatos.storage
 
 interface FileHandler {
     fun SaveInformation(datosAGrabar:Pair<String,String>)

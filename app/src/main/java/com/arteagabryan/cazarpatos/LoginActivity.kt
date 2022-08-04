@@ -9,6 +9,8 @@ import android.widget.Button
 import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.Toast
+import com.arteagabryan.cazarpatos.storage.FileExternalManager
+import com.arteagabryan.cazarpatos.storage.FileHandler
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
@@ -62,7 +64,8 @@ class LoginActivity : AppCompatActivity() {
 
         }
         buttonNewUser.setOnClickListener {
-
+            val intencion = Intent(this, NuevoUsuarioActivity::class.java)
+            startActivity(intencion)
         }
         mediaPlayer = MediaPlayer.create(this, R.raw.title_screen)
         //mediaPlayer.isLooping = true

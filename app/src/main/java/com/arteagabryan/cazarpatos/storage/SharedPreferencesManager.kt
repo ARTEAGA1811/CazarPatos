@@ -1,7 +1,9 @@
-package com.arteagabryan.cazarpatos
+package com.arteagabryan.cazarpatos.storage
 
 import android.app.Activity
 import android.content.Context
+import com.arteagabryan.cazarpatos.LOGIN_KEY
+import com.arteagabryan.cazarpatos.PASSWORD_KEY
 
 class SharedPreferencesManager (val actividad: Activity): FileHandler {
     override fun SaveInformation(datosAGrabar:Pair<String,String>){

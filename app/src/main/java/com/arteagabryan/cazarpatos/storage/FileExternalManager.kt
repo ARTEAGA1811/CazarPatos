@@ -1,8 +1,9 @@
-package com.arteagabryan.cazarpatos
+package com.arteagabryan.cazarpatos.storage
 
 import android.app.Activity
 import android.os.Environment
 import android.util.Log
+import com.arteagabryan.cazarpatos.SHAREDINFO_FILENAME
 import java.io.File
 import java.io.FileInputStream
 import java.io.FileOutputStream
