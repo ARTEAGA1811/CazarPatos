@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673157487932",
+    "firebase_url": "https://proyectocazarpatos-3bece-default-rtdb.firebaseio.com",
+    "project_id": "proyectocazarpatos-3bece",
+    "storage_bucket": "proyectocazarpatos-3bece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673157487932:android:03d0c159468fed26b89239",
+        "android_client_info": {
+          "package_name": "com.arteagabryan.cazarpatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673157487932-o3alln9ft5qicugofk46c7mbpsv2nohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZg5yJI8P-VqzvQGRGk434QzTh3UZGOuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673157487932-o3alln9ft5qicugofk46c7mbpsv2nohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
