@@ -1,246 +1,230 @@
 [
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_information.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_information.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_duck_clicked.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/duck_clicked.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_information_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_information_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_myicon.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_myicon.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_myicon_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_myicon_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\raw_gunshot.mp3.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\raw\\gunshot.mp3"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_information_background.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_information_background.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_duck_hunt_logo.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\duck_hunt_logo.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_information.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_information.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\raw_title_screen.mp3.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\raw\\title_screen.mp3"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_information_round.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_information_round.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_timer.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\timer.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/menu_menu_main.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/menu/menu_main.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_myicon.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_myicon.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_myicon.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_myicon.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_myicon.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_myicon.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_information.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/menu_menu_juego.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/menu/menu_juego.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_information.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_information.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_myicon_background.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_myicon_background.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/layout_activity_login.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/layout/activity_login.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_myicon_foreground.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_myicon_foreground.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_information_foreground.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_information_foreground.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\font_press_start_2p.ttf.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\font\\press_start_2p.ttf"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_myicon.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_myicon.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_myicon_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_myicon_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_myicon.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_myicon.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/raw_title_screen.mp3.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/raw/title_screen.mp3"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_information_round.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_information_round.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_information_background.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_information_background.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/layout_ranking_list.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/layout/ranking_list.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_information_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_information_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_information_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_information_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/xml_backup_rules.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/font_press_start_2p.ttf.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/font/press_start_2p.ttf"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_myicon.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_myicon.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_information.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_information.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_information_foreground.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_information_foreground.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/font_pixel.ttf.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/font/pixel.ttf"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_myicon.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_myicon.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_juego.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\menu\\menu_juego.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_duck.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\duck.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/raw_gunshot.mp3.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/raw/gunshot.mp3"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_title.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\title.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_duck_hunt_logo.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/duck_hunt_logo.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_information_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_information_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/layout_activity_ranking.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/layout/activity_ranking.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_myicon_foreground.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_myicon_foreground.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_myicon.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_myicon.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_information_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_information_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_myicon.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_myicon.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\font_pixel.ttf.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\font\\pixel.ttf"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_information_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_information_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_myicon_round.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_myicon_round.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_timer.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/timer.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/layout_activity_nuevo_usuario.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/layout/activity_nuevo_usuario.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_myicon.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_myicon.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_information.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_information.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_information_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_information_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_myicon_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_myicon_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_information.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_information.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_information.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_information.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_myicon_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_myicon_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_information_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_information_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_myicon_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_myicon_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxhdpi_ic_information_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxhdpi/ic_information_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_myicon_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_myicon_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_duck_clicked.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\duck_clicked.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_bg_game.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/bg_game.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_myicon.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_myicon.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xhdpi\\ic_information.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_information.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_information.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/layout_activity_main.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/layout/activity_main.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_myicon_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_myicon_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_myicon_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-hdpi\\ic_myicon_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_myicon_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_myicon_round.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_information_round.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-mdpi\\ic_information_round.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_game.png.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\bg_game.png"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_duck.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/duck.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-anydpi-v26_ic_myicon_round.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-anydpi-v26/ic_myicon_round.xml"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-xhdpi_ic_myicon_round.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-xhdpi/ic_myicon_round.png"
-    },
-    {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/mipmap-hdpi_ic_information.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/mipmap-hdpi/ic_information.png"
-    },
-    {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_ic_myicon_background.xml.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/ic_myicon_background.xml"
-    },
-    {
-        "merged": "com.arteagabryan.cazarpatos.app-merged_res-34:/drawable_title.png.flat",
-        "source": "com.arteagabryan.cazarpatos.app-main-36:/drawable/title.png"
+        "merged": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_information.xml.flat",
+        "source": "C:\\Users\\BETA\\AndroidStudioProjects\\David Arteaga Proyectos\\Proyectos David\\proyectocazarpatos\\CazarPatos\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_information.xml"
     }
 ]
